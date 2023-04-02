@@ -16,3 +16,8 @@ Vinicius Mendes Garcia
 - Excritório Premium de Contabilidade - 2019
 - Autônomo 2019-2022
 - View Tech Engenharia de Automação - 2022 - atual
+
+## Informações Adicionais
+- Conhecimento do Pacote Office
+- Facilidade para trabalhar em grupo
+- Disposição para aprender
