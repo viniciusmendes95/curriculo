@@ -21,3 +21,4 @@ Vinicius Mendes Garcia
 - Conhecimento do Pacote Office
 - Facilidade para trabalhar em grupo
 - Disposição para aprender
+- Programação em Python (iniciante)
