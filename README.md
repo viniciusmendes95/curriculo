@@ -7,3 +7,6 @@ Vinicius Mendes Garcia
  - email: vinicius_mendesgarcia@hotmail.com
  - Estado Civil: solteiro
 
+## Formação Acadêmica
+- Graduação completa em Ciências Contábeis (2014-2017)
+- Cursando Análise e Desenvolvimento de Sistemas (término previsto para 2025)
