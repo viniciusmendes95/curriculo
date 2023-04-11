@@ -2,7 +2,7 @@
 Vinicius Mendes Garcia
 
 ## Informações Pessoais
- - Endereço: Rua Maria Glória de Campos, 63 Bairro: Fernando Mauro
+ - Endereço:  Bairro:
  - Idade: 27 anos
  - email: vinicius_mendesgarcia@hotmail.com
  - Estado Civil: solteiro
@@ -13,7 +13,7 @@ Vinicius Mendes Garcia
 
 ## Experiências Profissionais
 - Associação Beneficente Hospital Universitário (ABHU) - 2016-2018
-- Excritório Premium de Contabilidade - 2019
+- Escritório Premium de Contabilidade - 2019
 - Autônomo 2019-2022
 - View Tech Engenharia de Automação - 2022 - atual
 
